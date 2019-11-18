@@ -67,17 +67,17 @@ Python - see instructions below on how to install:
 
 
 ## References
-Albon, C,. Machine Learning with Python Cookbook
+Albon, C,. __Machine Learning with Python Cookbook__
 
-Hastie, T. Tibshirani, R. Friedman,J . The Elements of Statistical Learning:Data Mining, Inference, and Prediction
+Hastie, T. Tibshirani, R. Friedman,J . __The Elements of Statistical Learning:Data Mining, Inference, and Prediction__
 
-Grus, J.,Data Science From Scratch, First Principles with Python
+Grus, J., __Data Science From Scratch, First Principles with Python__
 
-Kinney, W., Python for Data Analysis
+Kinney, W., __Python for Data Analysis__
 
-James, J., Witten, D., Hastie, T., Tibshirani R., An Introduction to Statistical Learning
+James, J., Witten, D., Hastie, T., Tibshirani R., __An Introduction to Statistical Learning__
 
-Dell EMC Education Services, Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data
+Dell EMC Education Services, __Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data__
 
 ## Websites
 https://towardsdatascience.com/probability-distributions-in-data-science-cce6e64873a7
