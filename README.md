@@ -15,7 +15,7 @@
 
 
 
-## Assignment outline:
+## Assignment outline
 The purpose of this assignment is to conduct analysis of the well known tips dataset using packages such as seaborn and jupyter. The jupyter notebook contains the tasks outlines in the [assignment](https://github.com/tomhealy1/Asssessment-Fundamentals-of-Data-Analysis-2019/blob/master/Data_Analytics_Fund_Sem2_2019_Assignment.pdf). The instructions for running the notebook are below.
 
 The assignment will be broken down into 3 main parts:
@@ -32,6 +32,7 @@ We will analyse the relationship between the variables cintained within the data
 4. ML - 
 Just for shits and giggles, I am goinig to try and put in a ML to predict the tip amaount based on some features.
 
+## Tools used
 
 This assignment will use a number of different tools to carry out the tasks in the assignment. The tools we will use are:
 
@@ -47,7 +48,7 @@ Python - see instructions below on how to install:
 
 * Seaborn - An additional data visualisation package
 
-## Instructions:
+## Instructions
 
 1. If you have not already done so, please download the [Anaconda Distribution](https://www.anaconda.com/distribution) for Python 3.7.
 
@@ -63,8 +64,6 @@ Python - see instructions below on how to install:
 6. You can now run the notebook using ```jupyter notebook``` command in the terminal
 
 7. When opened, run all cells.
-
-## References:
 
 
 ## References
