@@ -20,13 +20,17 @@ The purpose of this assignment is to conduct analysis of the well known tips dat
 
 The assignment will be broken down into 3 main parts:
 
-1. Description - A overview of the set using decriptive stats and plottong to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset.
+1. Description - 
+A overview of the set using decriptive stats and plottong to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset.
 
-2. Regression - Using regression we will explore and analyse the extent of the relationship between total bill and the tip amount.
+2. Regression - 
+Using regression we will explore and analyse the extent of the relationship between total bill and the tip amount.
 
-3. Analyse - We will analyse the relationship between the variables cintained within the dataset. 
+3. Analyse - 
+We will analyse the relationship between the variables cintained within the dataset. 
 
-4. ML - Just for shits and giggles, I am goinig to try and put in a ML to predict the tip amaount based on some features.
+4. ML - 
+Just for shits and giggles, I am goinig to try and put in a ML to predict the tip amaount based on some features.
 
 
 This assignment will use a number of different tools to carry out the tasks in the assignment. The tools we will use are:
