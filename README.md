@@ -18,19 +18,23 @@
 ## Assignment outline
 The purpose of this assignment is to conduct analysis of the well known tips dataset using packages such as seaborn and jupyter. The jupyter notebook contains the tasks outlines in the [assignment](https://github.com/tomhealy1/Asssessment-Fundamentals-of-Data-Analysis-2019/blob/master/Data_Analytics_Fund_Sem2_2019_Assignment.pdf). The instructions for running the notebook are below.
 
-The assignment will be broken down into 3 main parts:
+The assignment will be broken down into 4 main parts:
 
 1. Description - 
-A overview of the set using decriptive stats and plottong to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset.
+
+An overview of the set using decriptive stats and plotting to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset.
 
 2. Regression - 
+
 Using regression we will explore and analyse the extent of the relationship between total bill and the tip amount.
 
 3. Analyse - 
+
 We will analyse the relationship between the variables cintained within the dataset. 
 
 4. ML - 
-Just for shits and giggles, I am goinig to try and put in a ML to predict the tip amaount based on some features.
+
+I am goinig to try and put in a ML to predict the tip amount based on some features.
 
 ## Tools used
 
