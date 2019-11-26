@@ -20,21 +20,21 @@ The purpose of this assignment is to conduct analysis of the well known tips dat
 
 The assignment will be broken down into 4 main parts:
 
-1. Description - 
+## 1. Description - 
 
-An overview of the set using decriptive stats and plotting to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset.
+An overview of the set using decriptive stats and plotting to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset. Theh plotting will concentrate on the main plot as outlined in the lectured but I will use some of the lesser known plots such as violin plots just to become familar with them. In addition to the overall description, I also investigate integrity of the data and on encountering an outlier, I assess the signicance and put forward threee strategies for dealing with it. 
 
-2. Regression - 
+## 2. Regression - 
 
-Using regression we will explore and analyse the extent of the relationship between total bill and the tip amount.
+Using regression we will explore and analyse the extent of the relationship between total bill and the tip amount. I 
 
-3. Analyse - 
+## 3. Analyse - 
 
 We will analyse the relationship between the variables cintained within the dataset. 
 
-4. ML - 
+## 4. ML - 
 
-I am goinig to try and put in a ML to predict the tip amount based on some features.
+I am going to try and put in a ML to predict the tip amount based on some features.
 
 ## Tools used
 
