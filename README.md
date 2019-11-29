@@ -22,19 +22,25 @@ The assignment will be broken down into 4 main parts:
 
 ## 1. Description - 
 
-An overview of the set using decriptive stats and plotting to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset. Theh plotting will concentrate on the main plot as outlined in the lectured but I will use some of the lesser known plots such as violin plots just to become familar with them. In addition to the overall description, I also investigate integrity of the data and on encountering an outlier, I assess the signicance and put forward threee strategies for dealing with it. 
+An overview of the set using decriptive stats and plotting to convey the properties (types of data, min/max/avg etc .) and shape or distribution of values contained within the dataset. Theh plotting will concentrate on the main plot as outlined in the lectured but I will use some of the lesser known plots such as violin plots just to become familar with them. In addition to the overall description, I also investigate integrity of the data and on encountering an outlier, I assess the signicance and put forward three strategies for dealing with it. 
 
 ## 2. Regression - 
 
-Using regression we will explore and analyse the extent of the relationship between total bill and the tip amount. I 
+Using regression we will explore and analyse the extent of the relationship between total bill and the tip amount. I will use plots to establish if there is a relationship visually and then I will use SCikitlearn and statsmodels to investigate the strength of the relationship. We will generate an OLS model summary also. The models should agree on:
+
+Intercept
+Slope
+R-squared
+
+We will visualise the relationship also and give a brief overview of what the main outcomes mean.
 
 ## 3. Analyse - 
 
-We will analyse the relationship between the variables cintained within the dataset. 
+The final required section we will draw on the relationship between other variables and discuss the findings. It will achieve this by using plots to visualise the numerical values and then we will tranform the categorical values to numerical so we can re-plot a correlation matrix which includes our now transformed categorical values.
 
 ## 4. ML - 
 
-I am going to try and put in a ML to predict the tip amount based on some features.
+I'm going to add ML model to predict out some output from the variable in the set e.g. the size of the tip based some numerical and categorical values.
 
 ## Tools used
 
